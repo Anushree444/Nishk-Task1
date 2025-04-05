@@ -8,8 +8,7 @@ Tinkercad Arduino simulations for Nishk Task 1 — built for life support and em
 - **Component**: PIR Motion Sensor  
 - **Function**: Detects motion and turns on an LED.  
 - **Use Case**: Useful for detecting movement of living beings or objects near the rover.
--![Motion Detection System](assets/Screenshot%202025-04-05%20211910.png)
-
+![Motion Detection System](Screenshot%202025-04-05%20211051.png)
 
 ###  Project 2: Solar Tracking System
 - **Component**: Two LDRs and a Servo  
