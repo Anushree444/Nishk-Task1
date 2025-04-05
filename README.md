@@ -22,7 +22,7 @@ Tinkercad Arduino simulations for Nishk Task 1 — built for life support and em
 - **Use Case**: Protects sensitive systems from extreme Martian temperatures.
 ![Mars Emergency Flap](Screenshot%202025-04-05%20210416.png)
 ---
-🔗 [Watch Simulation – Motion Detection System]([https://your-link-here](https://drive.google.com/drive/folders/1pT3xe65w1HvgQ3WLTTAZ1ZN_Gz2NSTMK?usp=sharing)
-)]
+🔗 [Watch Simulation – Motion Detection System]([(https://drive.google.com/drive/folders/1pT3xe65w1HvgQ3WLTTAZ1ZN_Gz2NSTMK?usp=sharing)])
+
 All projects include Arduino code and working Tinkercad Circuits simulations.  
 **Simulations & Code:** See the `.zip` file uploaded for full source and designs.
