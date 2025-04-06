@@ -27,4 +27,4 @@ Tinkercad Arduino simulations for Nishk Task 1 — built for life support and em
 
 
 All projects include Arduino code and working Tinkercad Circuits simulations.  
-**Simulations & Code:** See the .ino files uploaded for full source and designs.
+**Simulations & Code:** See the .ino files uploaded for full source and circuit-design summary uplaoded for designs.
