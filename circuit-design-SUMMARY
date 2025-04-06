@@ -1,0 +1,111 @@
+🔌 Circuit Design Summaries
+🚨 Project 1: Motion Detection System
+Components:
+
+PIR Sensor (Sensor 1)
+
+Ultrasonic Sensor (Sensor 2)
+
+LED (Output)
+
+Connections:
+
+PIR Sensor:
+
+VCC → 5V
+
+GND → GND
+
+OUT → D2
+
+Ultrasonic Sensor (HC-SR04):
+
+VCC → 5V
+
+GND → GND
+
+Trig → D3
+
+Echo → D4
+
+LED:
+
+Anode → D7 via 220Ω resistor
+
+Cathode → GND
+
+☀️ Project 2: Solar Light Detection & Rotation
+Components:
+
+2 × Photoresistors (LDRs)
+
+Servo Motor
+
+Connections:
+
+Photoresistor 1:
+
+One side → A0
+
+Other side → 5V
+
+10kΩ resistor between A0 and GND
+
+Photoresistor 2:
+
+One side → A1
+
+Other side → 5V
+
+10kΩ resistor between A1 and GND
+
+Servo Motor:
+
+Signal → D9
+
+VCC → 5V
+
+GND → GND
+
+🛡️ Project 3: Mars Emergency Flap
+Components:
+
+Potentiometer
+
+Push Button
+
+LED
+
+Servo Motor
+
+Connections:
+
+Potentiometer:
+
+Left pin → 5V
+
+Right pin → GND
+
+Middle pin → A0
+
+Push Button:
+
+One terminal → D2
+
+Other terminal → GND
+
+(Internal pull-up enabled in code)
+
+LED:
+
+Anode → D7 via 220Ω resistor
+
+Cathode → GND
+
+Servo Motor:
+
+Signal → D9
+
+VCC → 5V
+
+GND → GND
