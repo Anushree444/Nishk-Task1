@@ -17,7 +17,7 @@ Tinkercad Arduino simulations for Nishk Task 1 — built for life support and em
 - ![Solar Tracking System](Screenshot%202025-04-05%20211051.png)
 
 ###  Project 3: Mars Emergency Flap
-- **Component**: Temperature Sensor and Servo Motor  
+- **Component**: Temperature Sensor, Push Button and Servo Motor  
 - **Function**: Monitors Mars temperature. If it's too low (<5°C) or too high (>40°C), it activates an emergency flap and LED warning.  
 - **Use Case**: Protects sensitive systems from extreme Martian temperatures.
  ![Simulation Screenshot](Screenshot%202025-04-06%20114632.png)
@@ -27,4 +27,4 @@ Tinkercad Arduino simulations for Nishk Task 1 — built for life support and em
 
 
 All projects include Arduino code and working Tinkercad Circuits simulations.  
-**Simulations & Code:** See the `.zip` file uploaded for full source and designs.
+**Simulations & Code:** See the .ino files uploaded for full source and designs.
