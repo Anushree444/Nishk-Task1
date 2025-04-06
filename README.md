@@ -20,7 +20,8 @@ Tinkercad Arduino simulations for Nishk Task 1 — built for life support and em
 - **Component**: Temperature Sensor and Servo Motor  
 - **Function**: Monitors Mars temperature. If it's too low (<5°C) or too high (>40°C), it activates an emergency flap and LED warning.  
 - **Use Case**: Protects sensitive systems from extreme Martian temperatures.
-  ![Simulation Screenshot\](Screenshot%202025-04-06%20114632.png)
+ ![Simulation Screenshot](Screenshot%202025-04-06%20114632.png)
+
 
  📎 Nishk Task 1 Projects | Simulations: https://drive.google.com/drive/folders/1pT3xe65w1HvgQ3WLTTAZ1ZN_Gz2NSTMK
 
